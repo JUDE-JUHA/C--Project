@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1525672535 source:c:\users\acer\desktop\jjj\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+
+1527168583 source:e:\book management system\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"borrow.h"
+	"student.h"
+	"book.h"
+	"introduction.h"
+
+1525775814 e:\book management system\include\borrow.h
+
+1525776968 e:\book management system\include\student.h
+
+1525776212 e:\book management system\include\book.h
+
+1527168583 e:\book management system\include\introduction.h
+	"borrow.h"
+	"book.h"
+	"student.h"
+
+1525776513 source:e:\book management system\src\borrow.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"borrow.h"
+
+1525778015 source:e:\book management system\src\book.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"book.h"
+
+1527170233 source:e:\book management system\src\introduction.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"introduction.h"
+	"borrow.h"
+	"book.h"
+	"student.h"
+
+1525780492 source:e:\book management system\src\student.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"student.h"
+	"borrow.h"
+	"book.h"
+	"student.h"
+
+1534593147 source:d:\book management system\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"borrow.h"
+	"student.h"
+	"book.h"
+	"introduction.h"
+
+1525775814 d:\book management system\include\borrow.h
+
+1525776968 d:\book management system\include\student.h
+
+1525776212 d:\book management system\include\book.h
+
+1527168583 d:\book management system\include\introduction.h
+	"borrow.h"
+	"book.h"
+	"student.h"
+
+1525778015 source:d:\book management system\src\book.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"book.h"
+
+1525776513 source:d:\book management system\src\borrow.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"borrow.h"
+
+1527170233 source:d:\book management system\src\introduction.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"introduction.h"
+	"borrow.h"
+	"book.h"
+	"student.h"
+
+1525780492 source:d:\book management system\src\student.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<iomanip>
+	<stdlib.h>
+	"student.h"
+	"borrow.h"
+	"book.h"
+	"student.h"
+
